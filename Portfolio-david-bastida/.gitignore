@@ -1,0 +1,29 @@
+# Ignorar todo por defecto
+*
+
+# Excepto los archivos del portafolio
+!index.html
+!voces.jpg
+!.gitignore
+
+# Ignorar carpetas comunes del sistema
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+*.log
+
+# Ignorar proyectos grandes y autosaves
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+UnrealEngine/
+*.uasset
+*.mb
+*.blend1
+*.tmp
+*.autosave
